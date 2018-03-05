@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Faces</string>
+    <string name="title_home">Home</string>
+    <string name="title_camera">Camera</string>
+    <string name="title_settings">About</string>
+
+    <!--<string name="app_name">Camera App</string>-->
+    <string name="take_picture">&#xf030; Take Picture</string>
+    <string name="member_names">Faces\nAndroid app that uses facial recognition to store face descriptors and match new faces with their corresponding names.</string>
+    <string name="title_activity_fullscreen">Camera</string>
+    <string name="activity_input_name_label">Name</string>
+    <string name="title_activity_member">Group Members</string>
+</resources>
